@@ -30,3 +30,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+我加点汉字，看能不能提交
